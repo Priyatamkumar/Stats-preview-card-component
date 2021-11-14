@@ -1,0 +1,51 @@
+body {
+    background-color: hsl(233, 47%, 7%);
+    font-family: 'Inter', sans-serif;
+    text-decoration-color: hsla(0, 0%, 100%, 0.75);
+    font-weight: 400 700;
+}
+h1 {
+    color: hsl(0, 0%, 100%);
+    font-family: 'Inter', sans-serif;
+}
+h2 {
+    color: hsl(0, 0%, 100%);
+    font-family: 'Inter', sans-serif;
+    margin-block-end: 0px;
+}
+table {
+    border-spacing: 1px;
+}
+td {
+    padding-right: 50px;
+}
+.card {
+    width: 1080px;
+    height: 446px;
+    background-color: hsl(244, 38%, 16%);
+    margin: 10% 10% 10% 10%;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 5px;
+}
+.image {
+    float: right;
+    color: hsl(277, 78%, 53%);
+    opacity: 2;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 5px;
+}
+.card-des {
+    margin: 80px;
+    padding-top: 50px;
+    width: 346px;
+}
+.heading {
+    color: hsl(277, 64%, 61%);
+    font-family: 'Inter', sans-serif;
+}
+.para {
+    color: hsla(0, 0%, 100%, 0.75);
+    margin-bottom: 48px;
+}
